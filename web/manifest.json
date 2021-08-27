@@ -1,0 +1,23 @@
+{
+    "name": "thepeliculas",
+    "short_name": "thepeliculas",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Disfruta de todo el contenido variado que tenemos para ti. en un amplio catalogo de peliculas, series Juegos y mucho mas.. si tienes algun problema por favor no dudes en ponerte en contacto con nosotros en el link de soporte tecnico, siempre estamos mejorando la plataforma para brindarte un mejor servicio y que disfrutes de todo el contenido fluido y sin pausas...",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
